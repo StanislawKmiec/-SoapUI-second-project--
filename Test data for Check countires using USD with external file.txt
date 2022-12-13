@@ -1,0 +1,16 @@
+Currency=USD
+Country1=AS
+Country2=BQ
+Country3=EC
+Country4=FM
+Country5=GU
+Country6=MH
+Country7=MP
+Country8=PR
+Country9=PW
+Country10=TC
+Country11=TL
+Country12=UM
+Country13=US
+Country14=VG
+Country15=VI

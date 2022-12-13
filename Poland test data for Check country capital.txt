@@ -1,0 +1,2 @@
+isoCode=PL
+capitalCity=Warsaw

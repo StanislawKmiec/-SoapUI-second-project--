@@ -1,0 +1,3 @@
+countryCode, countryName, capital, phone, continent, currency, langCode, lang
+US,United States,Washington,1,AM,USD,eng,English
+GB,United Kingdom,London,44,EU,GBP,eng,English
